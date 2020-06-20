@@ -1,5 +1,5 @@
 # contacts-app
-An app for telephone contacts
+#An app for telephone contacts
 
 ## How to run the project:
 * Clone the project
